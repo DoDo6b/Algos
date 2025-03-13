@@ -1,4 +1,5 @@
 # Specific
+*.old
 .DS_store
 *.dSYM
 build
