@@ -4,6 +4,7 @@
 *.dSYM
 build
 .vscode
+ref.cpp
 
 # Prerequisites
 *.d
